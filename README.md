@@ -1,4 +1,4 @@
-# Southern-African-History
+# Southern African History
 This is an ongoing collaborative project dedicated to the digitisation, preservation, organisation, and analysis of Southern African history. Our aim is to build an accessible and well-structured archive that preserves historical sources, documents, narratives, and knowledge for current and future generations.
 
 The project was founded on the belief that preserving history is essential to understanding the present and shaping the future. By collecting, organising, and contextualising historical material, we seek to provide a clearer picture of the people, societies, cultures, and events that have shaped Southern Africa. Rather than allowing valuable historical knowledge to remain scattered or inaccessible, we work to bring it together in a form that is searchable, interconnected, and freely available.
